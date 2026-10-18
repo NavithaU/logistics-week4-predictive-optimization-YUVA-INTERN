@@ -1,0 +1,4 @@
+Scenario,Assumed_cost_reduction_pct,Estimated_total_cost_inr,Estimated_savings_inr
+Baseline,0,923257.3699999999,0.0
+Route planning improvement,5,877094.5014999999,46162.86849999998
+Route planning + load consolidation,8,849396.7803999999,73860.58959999995
